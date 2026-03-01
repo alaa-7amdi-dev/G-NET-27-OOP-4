@@ -24,6 +24,10 @@
             //Method Overloading => Same method Different Parameters (order,type,number).
             //Method Overriding => Same methof Different Impelementation.
             #endregion
+            #region Q3
+             //1=> Virtual : Used in the Parent Class to mark the method as Overridable.
+             //2=> Override : Used in Child Class To Overriding The Virtual Method.
+            #endregion
             #endregion
         }
     }
